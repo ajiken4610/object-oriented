@@ -201,7 +201,7 @@ public class Main{
 ### ソースコードの説明待ちのお客さんがいらっしゃいます。
 　そろそろソースコードを見ていきましょう。
 
-```java:Andorid.java(再掲)
+```java:Andorid.java(Re)
 public class Android{
     final String name;
     Android(String name){
